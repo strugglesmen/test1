@@ -1,0 +1,12 @@
+F:\Files\demo\Superman\HuiTu.DataAccess.SqlServer\bin\Debug\HuiTu.DataAccess.SqlServer.dll
+F:\Files\demo\Superman\HuiTu.DataAccess.SqlServer\bin\Debug\HuiTu.DataAccess.SqlServer.pdb
+F:\Files\demo\Superman\HuiTu.DataAccess.SqlServer\bin\Debug\DotNet.Business.dll
+F:\Files\demo\Superman\HuiTu.DataAccess.SqlServer\bin\Debug\DotNet.Utilities.dll
+F:\Files\demo\Superman\HuiTu.DataAccess.SqlServer\bin\Debug\HuiTu.DataAccess.dll
+F:\Files\demo\Superman\HuiTu.DataAccess.SqlServer\bin\Debug\HuiTu.Superman.Model.dll
+F:\Files\demo\Superman\HuiTu.DataAccess.SqlServer\bin\Debug\HuiTu.Utilities.dll
+F:\Files\demo\Superman\HuiTu.DataAccess.SqlServer\bin\Debug\HuiTu.DataAccess.pdb
+F:\Files\demo\Superman\HuiTu.DataAccess.SqlServer\bin\Debug\HuiTu.Superman.Model.pdb
+F:\Files\demo\Superman\HuiTu.DataAccess.SqlServer\obj\Debug\HuiTu.DataAccess.SqlServer.csprojResolveAssemblyReference.cache
+F:\Files\demo\Superman\HuiTu.DataAccess.SqlServer\obj\Debug\HuiTu.DataAccess.SqlServer.dll
+F:\Files\demo\Superman\HuiTu.DataAccess.SqlServer\obj\Debug\HuiTu.DataAccess.SqlServer.pdb

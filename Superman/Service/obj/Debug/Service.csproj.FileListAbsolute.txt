@@ -1,0 +1,13 @@
+F:\Files\demo\Superman\Service\bin\Debug\HuiTu.Superman.Service.dll
+F:\Files\demo\Superman\Service\bin\Debug\HuiTu.Superman.Service.pdb
+F:\Files\demo\Superman\Service\bin\Debug\Model.dll
+F:\Files\demo\Superman\Service\bin\Debug\ServiceStack.Interfaces.dll
+F:\Files\demo\Superman\Service\bin\Debug\ServiceStack.ServiceInterface.dll
+F:\Files\demo\Superman\Service\bin\Debug\ServiceStack.dll
+F:\Files\demo\Superman\Service\bin\Debug\ServiceStack.Common.dll
+F:\Files\demo\Superman\Service\bin\Debug\ServiceStack.Text.dll
+F:\Files\demo\Superman\Service\bin\Debug\ServiceStack.OrmLite.dll
+F:\Files\demo\Superman\Service\bin\Debug\Model.pdb
+F:\Files\demo\Superman\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+F:\Files\demo\Superman\Service\obj\Debug\HuiTu.Superman.Service.dll
+F:\Files\demo\Superman\Service\obj\Debug\HuiTu.Superman.Service.pdb

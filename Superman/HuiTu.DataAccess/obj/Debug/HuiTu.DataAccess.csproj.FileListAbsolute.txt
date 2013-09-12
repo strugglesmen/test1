@@ -1,0 +1,7 @@
+F:\Files\demo\Superman\HuiTu.DataAccess\bin\Debug\HuiTu.DataAccess.dll
+F:\Files\demo\Superman\HuiTu.DataAccess\bin\Debug\HuiTu.DataAccess.pdb
+F:\Files\demo\Superman\HuiTu.DataAccess\bin\Debug\HuiTu.Superman.Model.dll
+F:\Files\demo\Superman\HuiTu.DataAccess\bin\Debug\HuiTu.Superman.Model.pdb
+F:\Files\demo\Superman\HuiTu.DataAccess\obj\Debug\HuiTu.DataAccess.csprojResolveAssemblyReference.cache
+F:\Files\demo\Superman\HuiTu.DataAccess\obj\Debug\HuiTu.DataAccess.dll
+F:\Files\demo\Superman\HuiTu.DataAccess\obj\Debug\HuiTu.DataAccess.pdb

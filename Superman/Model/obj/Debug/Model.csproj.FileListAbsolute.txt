@@ -1,0 +1,4 @@
+F:\Files\demo\Superman\Model\bin\Debug\HuiTu.Superman.Model.dll
+F:\Files\demo\Superman\Model\bin\Debug\HuiTu.Superman.Model.pdb
+F:\Files\demo\Superman\Model\obj\Debug\HuiTu.Superman.Model.dll
+F:\Files\demo\Superman\Model\obj\Debug\HuiTu.Superman.Model.pdb

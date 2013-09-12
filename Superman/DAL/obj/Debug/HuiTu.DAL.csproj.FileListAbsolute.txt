@@ -1,0 +1,4 @@
+F:\Files\demo\Superman\DAL\bin\Debug\HuiTu.Superman.DAL.dll
+F:\Files\demo\Superman\DAL\bin\Debug\HuiTu.Superman.DAL.pdb
+F:\Files\demo\Superman\DAL\obj\Debug\HuiTu.Superman.DAL.dll
+F:\Files\demo\Superman\DAL\obj\Debug\HuiTu.Superman.DAL.pdb

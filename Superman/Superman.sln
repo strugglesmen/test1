@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Host.Web", "Host.Web\Host.Web.csproj", "{9AFADC94-5211-4A05-B141-DB34A312DC59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuiTu.DAL", "DAL\HuiTu.DAL.csproj", "{7C8DC237-22C7-4460-848A-C0DF6B82E285}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuiTu.Service", "Service\HuiTu.Service.csproj", "{8A8AB8B9-109D-4FD8-A685-4082DC7558E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{27A5CACE-A006-4B98-ADB4-F8FAAAC7B8DA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Host", "Host", "{F6E2D12B-EC8B-4FAB-BC47-274E6A7AB10E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuiTu.DataAccess.SqlServer", "HuiTu.DataAccess.SqlServer\HuiTu.DataAccess.SqlServer.csproj", "{22547166-B999-4481-BFF5-F0D98BC33594}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuiTu.DataAccess", "HuiTu.DataAccess\HuiTu.DataAccess.csproj", "{5BAD18CD-DCDE-4A11-82E6-521198469104}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AFADC94-5211-4A05-B141-DB34A312DC59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AFADC94-5211-4A05-B141-DB34A312DC59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AFADC94-5211-4A05-B141-DB34A312DC59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AFADC94-5211-4A05-B141-DB34A312DC59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C8DC237-22C7-4460-848A-C0DF6B82E285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C8DC237-22C7-4460-848A-C0DF6B82E285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C8DC237-22C7-4460-848A-C0DF6B82E285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C8DC237-22C7-4460-848A-C0DF6B82E285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A8AB8B9-109D-4FD8-A685-4082DC7558E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A8AB8B9-109D-4FD8-A685-4082DC7558E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A8AB8B9-109D-4FD8-A685-4082DC7558E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A8AB8B9-109D-4FD8-A685-4082DC7558E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27A5CACE-A006-4B98-ADB4-F8FAAAC7B8DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27A5CACE-A006-4B98-ADB4-F8FAAAC7B8DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27A5CACE-A006-4B98-ADB4-F8FAAAC7B8DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27A5CACE-A006-4B98-ADB4-F8FAAAC7B8DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22547166-B999-4481-BFF5-F0D98BC33594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22547166-B999-4481-BFF5-F0D98BC33594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22547166-B999-4481-BFF5-F0D98BC33594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22547166-B999-4481-BFF5-F0D98BC33594}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BAD18CD-DCDE-4A11-82E6-521198469104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BAD18CD-DCDE-4A11-82E6-521198469104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BAD18CD-DCDE-4A11-82E6-521198469104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BAD18CD-DCDE-4A11-82E6-521198469104}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9AFADC94-5211-4A05-B141-DB34A312DC59} = {F6E2D12B-EC8B-4FAB-BC47-274E6A7AB10E}
+	EndGlobalSection
+EndGlobal
